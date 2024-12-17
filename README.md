@@ -176,13 +176,15 @@ Steps to Run the Backend:
 **7.  POST /api/auth/register**
   - user registration
 
-  ![image](https://github.com/user-attachments/assets/2e3d735e-8f16-47c4-9fac-a96982a19147)
+  ![image](https://github.com/user-attachments/assets/df23d260-57c7-41d1-a228-08bf00a566cb)
+
 
 
 **8.	POST /api/auth/login**
   - user login (for simplicity all user login accepted but actual code commnnted in security file.)
     
-  ![image](https://github.com/user-attachments/assets/9cb3a340-0ef6-4257-8c59-a0ec58bbfa3c)
+ ![image](https://github.com/user-attachments/assets/df679c86-eeee-4cb6-a1d1-e0ae534dd83b)
+
 
 
 
